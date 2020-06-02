@@ -10,6 +10,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+
 @SuppressWarnings("serial")
 public class Main extends JFrame {
     private static final String FRAME_TITLE = "Клиент мгновенных сообщений";
